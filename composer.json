@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": ">4.1.x",
+        "illuminate/support": ">4.1.*",
         "twig/twig": "1.12.*@dev",
         "twig/extensions": "1.0.*@dev",
         "mthaml/mthaml": "dev-master"
